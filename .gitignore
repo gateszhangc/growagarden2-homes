@@ -1,0 +1,15 @@
+node_modules/
+.vite/
+.next/
+dist/
+build/
+.cache/
+.DS_Store
+*.local
+Thumbs.db
+.env
+.env.local
+.env.*.local
+*.log
+coverage/
+.nyc_output/
